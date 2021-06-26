@@ -7,6 +7,8 @@ products:
 description: "Apps that can be used with as a starting point for some MS Learn Modules."
 urlFragment: "https://github.com/MicrosoftDocs/mslearn-staticwebapp-dotnet"
 ---
+### Source: 
+https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/
 
 # Official Microsoft Sample
 
